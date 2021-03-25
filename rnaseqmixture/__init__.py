@@ -43,3 +43,5 @@ all = [
     find_good_genes_top_k, find_good_genes_top_k_skip, find_good_genes_threeway_top_k_skip,
 
 ]
+
+__version__ = '0.1.0'
